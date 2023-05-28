@@ -1,0 +1,5 @@
+﻿  game.c
+D:\Ccode\shangke\game1\game1\game.c(118,21): warning C4047: “=”:“char”与“char [2]”的间接级别不同
+  test.c
+  正在生成代码...
+  game1.vcxproj -> D:\Ccode\shangke\game1\x64\Debug\game1.exe
